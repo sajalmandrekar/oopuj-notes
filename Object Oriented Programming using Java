@@ -1,0 +1,83 @@
+UNIT -1
+Introduction to Java: Java Buzzwords, Bytecode, Java
+environment, Overview of Java Language, Constants, Variables
+and Data Types, Operators and Expressions, Decision Making
+and Branching, Decision Making and Looping, Classes, Objects,
+Methods, Inheritance, Arrays, Strings, Vectors.
+
+UNIT -2
+Interfaces: Introduction, Defining, extending and implementing
+Interfaces, Accessing interface variables.
+Packages: Introduction, Java API packages, using system
+packages, naming conventions, creating, accessing and using a
+package, adding a class to a package, hiding classes, static
+import.
+Multithreaded Programming: Introduction, Creating Threads,
+Extending the Thread class, Stopping and Blocking Threads, Life
+Cycle, Thread methods,
+Thread Exceptions, Priority and Synchronization, Implementing
+the runnable interface, inter-thread communication.
+Managing Errors and Exceptions:Introduction, Types of
+Errors and Exceptions, Exception handling, Multiple catch
+statements, finally, Throwing our own Exceptions, Improved
+exception handling, Using exceptions for debugging.
+Managing Input/ Output Files in Java: Introduction,
+Streams, Stream classes, Byte Stream and Character Stream
+classes, Using Streams, other useful I/O Classes, File Class,
+Input/Output Exceptions, Creation of Files, Reading/Writing
+Characters, Bytes and Primitive Types, Concatenating and
+Buffering Files, Random Access Files, Interactive I/O.
+17Java Collections: Introduction,
+Classes and Algorithms.
+
+
+UNIT -3
+Overview of
+Interfaces,
+(10 Hours)
+Applet Programming: Introduction, how applets differ from
+applications, building applet code, applet life cycle, creating an
+executable applet, Applet tag, adding an applet to a HTML file,
+running applets, passing parameters, aligning the display,
+displaying numerical values, getting input form the user.
+AWT:AWT classes, Windows fundamentals, Working with
+Frame Windows,Introducing Graphics, Working with Color,
+Setting the Paint mode, Working with Fonts, Managing text
+output using FontMetrics, AWT Controls, Layout Managers.
+Event Handling: Two event handling mechanisms, The
+delegation event model, Event classes, Sources of events,
+Event listener interfaces, Using the delegation event model,
+Adapter classes, Inner classes.
+
+
+UNIT -4
+JavaFX: JavaFX Basic Concepts, A JavaFX Application Skeleton, (10 Hours)
+Compiling and Running a JavaFX Program, The Application
+Thread, A Simple JavaFX Control: Label, Using Buttons and
+Events, Drawing Directly on a Canvas, Using Image and
+ImageView, ToggleButton, RadioButton, CheckBox, ListView,
+ComboBox, TextField, ScrollPane, TreeView, Introducing Effects
+and Transforms, Adding Tooltips, Disabling a Control.
+JDBC: Introduction, Setting up, Connecting to and Querying a
+database,
+RowSet
+Interface,PreparedStatements,Stored
+Procedures,Transaction Processing.
+Networking: Networking Basics, The Networking Classes and
+Interfaces, InetAddress, Inet4Address and Inet6Address, TCP/IP
+Client Sockets, URL, URLConnection, HttpURLConnection, The
+URI Class, Cookies, TCP/IP Server, Sockets, Datagrams.
+
+
+TEXTBOOKS
+1 Programming with Java, E.Balagurusamy, 6 th edition, McGraw Hill, 2019.
+2 Java -The Complete Reference, Herbert Schildt,10 th edition, Tata
+3 McGraw Hill, 2017. Java-How to Program (Early Objects), Paul J.
+Deitel and Harvey Deitel, 11th Edition, Pearson Education, 2018.
+
+
+REFERENCES
+Introduction to Java Programming (Comprehensive version),Y. Daniel
+Liang, 10 th edition, Pearson Education, 2015.
+Core Java: Volume II–Advanced Features,Cay S. Horstmann and Gary
+Cornell, 9th edition,Pearson, 2013.
